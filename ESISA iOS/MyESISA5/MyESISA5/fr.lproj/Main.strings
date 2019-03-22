@@ -1,0 +1,84 @@
+
+/* Class = "UITabBarItem"; title = "Accueil"; ObjectID = "7dp-Hu-P4b"; */
+"7dp-Hu-P4b.title" = "Accueil";
+
+/* Class = "UIViewController"; title = "Acceuil"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Acceuil";
+
+/* Class = "UILabel"; text = "La presse parle de nous"; ObjectID = "JWX-A9-cmN"; */
+"JWX-A9-cmN.text" = "La presse parle de nous";
+
+/* Class = "UITextView"; text = "\"L'ESISA a su acquérir, depuis sa création en 1999 une très grande renommée dans le domaine de l'Ingénierie Informatique grâce à la formation originale qu'elle offre et à son projet innovant.\n\nL'école dispose d'un corps enseignant hautement qualifié et des moyens pédagogiques de grande qualité. Ces atouts sont renforcés par le succès et la richesse des partenariats avec des écoles et des universités étrangères que l'école a su développer, depuis sa création.\n\nAinsi, nous permettons à nos élèves et à nos futurs ingénieurs de s'adapter aux défis nouveaux qui sont dus aux développements extraordinaires des technologies de l'Information et de la communication dans un contexte international.\n\nNos anciens élèves, actifs dans les entreprises marocaines et étrangères, sont reconnus pour leurs compétences techniques mais aussi méthodologiques et humaines. Ils réussissent et construisent leur carrière. Ils occupent plus particulièrement des postes d'ingénieur d'études et de recherche, de concepteurs logiciels et de chefs de projets.\n\nLe parcours accompli de nos anciens élèves prouve la pertinence de nos choix.La qualité du label ESISA est reconnue par les entreprises et par les étudiants.\n\nFormer des ingénieurs et Chefs de projet en prise directe avec la réalité professionnelle et capables d'évoluer dans un environnement international, telle est l'ambition que nous voulons partager avec tous ceux qui veulent faire épanouir leurs talents, donner du sens à leur parcours professionnel et relever les grands défis du monde contemporain.\""; ObjectID = "MBd-04-amL"; */
+"MBd-04-amL.text" = "\"L'ESISA a su acquérir, depuis sa création en 1999 une très grande renommée dans le domaine de l'Ingénierie Informatique grâce à la formation originale qu'elle offre et à son projet innovant.\n\nL'école dispose d'un corps enseignant hautement qualifié et des moyens pédagogiques de grande qualité. Ces atouts sont renforcés par le succès et la richesse des partenariats avec des écoles et des universités étrangères que l'école a su développer, depuis sa création.\n\nAinsi, nous permettons à nos élèves et à nos futurs ingénieurs de s'adapter aux défis nouveaux qui sont dus aux développements extraordinaires des technologies de l'Information et de la communication dans un contexte international.\n\nNos anciens élèves, actifs dans les entreprises marocaines et étrangères, sont reconnus pour leurs compétences techniques mais aussi méthodologiques et humaines. Ils réussissent et construisent leur carrière. Ils occupent plus particulièrement des postes d'ingénieur d'études et de recherche, de concepteurs logiciels et de chefs de projets.\n\nLe parcours accompli de nos anciens élèves prouve la pertinence de nos choix.La qualité du label ESISA est reconnue par les entreprises et par les étudiants.\n\nFormer des ingénieurs et Chefs de projet en prise directe avec la réalité professionnelle et capables d'évoluer dans un environnement international, telle est l'ambition que nous voulons partager avec tous ceux qui veulent faire épanouir leurs talents, donner du sens à leur parcours professionnel et relever les grands défis du monde contemporain.\"";
+
+/* Class = "UIButton"; normalTitle = "Afficher les Notes"; ObjectID = "OgC-Yj-Cn2"; */
+"OgC-Yj-Cn2.normalTitle" = "Afficher les Notes";
+
+/* Class = "UILabel"; text = "Motif"; ObjectID = "Om8-vd-hUi"; */
+"Om8-vd-hUi.text" = "Motif";
+
+/* Class = "UILabel"; text = "29 bis Av Ibn Khatib Route d'Immouzzer Fès - Maroc. "; ObjectID = "RYt-m6-nJ5"; */
+"RYt-m6-nJ5.text" = "29 bis Av Ibn Khatib Route d'Immouzzer Fès - Maroc. ";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "SHd-1Y-Tc3"; */
+"SHd-1Y-Tc3.text" = "Login";
+
+/* Class = "UILabel"; text = "Seance"; ObjectID = "SKN-ai-9ma"; */
+"SKN-ai-9ma.text" = "Seance";
+
+/* Class = "UILabel"; text = "PARCOUS ET PROCEDURE D'ADMISSION"; ObjectID = "Tsq-VV-v9H"; */
+"Tsq-VV-v9H.text" = "PARCOUS ET PROCEDURE D'ADMISSION";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Uva-h6-2wc"; */
+"Uva-h6-2wc.title" = " ";
+
+/* Class = "UIBarButtonItem"; title = "Retour"; ObjectID = "Vcx-jm-mqA"; */
+"Vcx-jm-mqA.title" = "Retour";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Veg-XS-bkf"; */
+"Veg-XS-bkf.text" = "Date";
+
+/* Class = "UILabel"; text = " info@esisa.ma"; ObjectID = "XFD-no-myu"; */
+"XFD-no-myu.text" = " info@esisa.ma";
+
+/* Class = "UILabel"; text = "Espace parents"; ObjectID = "XGZ-yW-sD0"; */
+"XGZ-yW-sD0.text" = "Espace parents";
+
+/* Class = "UITabBarController"; title = "Acceuil"; ObjectID = "aen-Oz-lds"; */
+"aen-Oz-lds.title" = "Acceuil";
+
+/* Class = "UILabel"; text = "+212 (0)5 35 65 70 95 "; ObjectID = "cIh-Iy-Udh"; */
+"cIh-Iy-Udh.text" = "+212 (0)5 35 65 70 95 ";
+
+/* Class = "UINavigationController"; title = " "; ObjectID = "fqi-sq-dWs"; */
+"fqi-sq-dWs.title" = " ";
+
+/* Class = "UILabel"; text = "Ndido 2017"; ObjectID = "gxV-fs-NSL"; */
+"gxV-fs-NSL.text" = "Ndido 2017";
+
+/* Class = "UIButton"; normalTitle = "Se connecter"; ObjectID = "nBb-Tm-fSo"; */
+"nBb-Tm-fSo.normalTitle" = "Se connecter";
+
+/* Class = "UITabBarItem"; title = "International"; ObjectID = "npD-fO-d6w"; */
+"npD-fO-d6w.title" = "International";
+
+/* Class = "UITabBarItem"; title = "Contacts"; ObjectID = "oBB-6K-MV6"; */
+"oBB-6K-MV6.title" = "Contacts";
+
+/* Class = "UINavigationItem"; title = " "; ObjectID = "ol8-WL-uC2"; */
+"ol8-WL-uC2.title" = " ";
+
+/* Class = "UILabel"; text = "Matiere"; ObjectID = "rKy-D8-fxz"; */
+"rKy-D8-fxz.text" = "Matiere";
+
+/* Class = "UILabel"; text = "Contactez nous"; ObjectID = "reA-SG-kHm"; */
+"reA-SG-kHm.text" = "Contactez nous";
+
+/* Class = "UIButton"; normalTitle = "Afficher les Absences"; ObjectID = "ryT-BR-OYE"; */
+"ryT-BR-OYE.normalTitle" = "Afficher les Absences";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sva-GT-kOQ"; */
+"sva-GT-kOQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Espace parents"; ObjectID = "uRt-N1-v1f"; */
+"uRt-N1-v1f.text" = "Espace parents";
