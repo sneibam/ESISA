@@ -1,0 +1,53 @@
+.espace-intranet {
+  font-weight: bold;
+  font-size: 1.4em;
+  color: rgb(255, 255, 200);
+  font-family: verdana;
+}
+.nameEtudiantWelcome {
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+  font-size: 25px;
+  margin-top: 1%;
+}
+th{
+margin:5px;
+padding:5px;
+font-family:verdana;
+font-size:0.9em;
+text-align:center;
+color:blue;
+background-color:white;
+}
+
+.jaune td:hover{
+  background-color:rgb(255,255,128);
+}
+a {
+  color: black;
+  text-decoration:none;
+}
+td {
+  border: 1px solid grey;
+  margin: 20px;
+  padding:20px;
+  border-radius:8px;
+  font-size:1.2em;
+
+}
+.autre td{
+  margin:5px;
+  padding:5px;
+  font-family:verdana;
+  font-size:0.8em;
+  text-align:center;
+}
+.groupe td:hover{
+background-color:rgb(255,255,128);
+}
+
+.print {
+  text-decoration: underline;
+  font-size: 20px;
+}

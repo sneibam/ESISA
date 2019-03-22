@@ -1,0 +1,44 @@
+.form-labels {
+  display: inline-block;
+  margin-bottom: 0%;
+  font-weight: bold;
+  font-family: calibri;
+  font-size:80%;
+  box-sizing: border-box;
+  color: rgb(90, 90, 90);
+}
+.radio-buttons {
+  box-sizing: border-box;
+  color: rgb(90, 90, 90);
+  cursor: default;
+  font-weight: bold;
+  font-family: calibri;
+  font-size: 80%;
+  margin-left: 5%;
+}
+.form-group {
+  margin-bottom: 0%;
+}
+.submit-button {
+  margin-top: 5%;
+  background-color: rgb(66, 139, 202);
+  //border-bottom-color: rgb(53, 126, 189);
+  border-style: solid;
+  border-radius: 5%;
+  box-sizing: border-box;
+  border-color: rgb(66, 139, 202);
+  color: rgba(255, 255, 255);
+  cursor: pointer;
+
+  width: 100%;
+}
+
+.en_tete {
+  border-bottom-color: rgb(5, 82, 147);
+  color: rgb(5, 82, 147);
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  font-family: "calibri", arial;
+  margin-bottom: 10px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allnews xmlns="http//www.example.org/news" xmlnsxsi="http//www.w3.org/2001/XMLSchema-instance" xsischemaLocation="http//www.example.org/news news.xsd ">
+  <news>
+    <title link="http//www.eilco-ulco.fr/">Etudiants admis à l'École d'Ingénieurs du Littorale Côte d’Opale (Calais)(Rentrée 2018-2019)</title>
+    <content>MOUTAKIL Othmane - Informatique
+    			BENKABBOU Oussama - Informatique
+    			TIJANI Khalil - Informatique
+    </content>
+    <date>2018-01-28</date>
+    <image>images/partenaires/eil.jpg</image>
+  </news>
+  <news>
+    <title link="http//www.ensiie.fr/">Etudiants admis à l'ENSIIE (École nationale supérieure d'informatique pour l'industrie et l'entreprise) (Rentrée 2018-2019)</title>
+    <content>BERRADA Mohamed - Paris-Evry
+    			HAMOUD Mohamed Sneiba - Paris-Evry
+    			KHCHAF Yassir - Paris-Evry
+    </content>
+    <date>2018-01-17</date>
+    <image>images/partenaires/ensiie.jpg</image>
+  </news>
+
+
+  <news>
+    <title link="http//www.univ-lorraine.fr/">Etudiants admis à l'Université de Lorraine (Rentrée 2018-2019)</title>
+    <content>BERDAI Khadija - Interaction Humain-Machine
+    			BOUKAA Selma - Systèmes d'Information Décisionnels
+    			EL HADRACHI Hicham - Ingénierie Logicielle
+    			EL MANSOURI Hatim - Systèmes d'Information Décisionnels
+    			HAYANI Salma - Systèmes d'Information Décisionnels
+    			LAHJOUJI Yahya - Systèmes d'Information Décisionnels
+    			LEMTIRI CHLIEH Allae Ddine - Ingénierie Logicielle
+    </content>
+    <date>2018-02-14</date>
+    <image>images/partenaires/lorraine.jpg</image>
+  </news>
+  <news>
+  	<title link="http//polytech.univ-amu.fr/">Etudiants admis à l'Ecole Polytechnique Universitaire de Marseille (Rentrée 2018-2019)</title>
+  	<content>BAIDADA Mohammed Amine - Informatique
+  				EL MAJDOUBI Soukaina - Informatique
+  				HARCHLI Chaymae - GII
+  				JAAOUANE Yasmina - GII
+  				LAZRAK Maha - GII
+  				TAGMOUTI Zineb - GII
+  	</content>
+  	<date>2017-01-20</date>
+  	<image>images/partenaires/poly.jpg</image>
+  </news>
+  <news>
+  	<title link="http//www.u-pem.fr/">Etudiants admis à l'Université Paris Est Marne-La-Valée (Rentrée 2018-2019)</title>
+  	<content>Amhaouch Reda - Génie Logiciel
+  				DIALLO Rokiatou - Génie Logiciel
+  				IKMEL Jihane - Génie Logiciel
+  				KATTA Issam - Génie Logiciel
+  				NASSIM Youssef - Génie Logiciel
+  				GHOMARI Sara - Génie Logiciel
+  				SERSOURI Soukaina - Génie Logiciel
+
+  				BOUZOUBAA Ismail - Internet des Objets
+  				EL MOUSLIHE Hanane - Internet des Objets
+  				IDRISSI SEMLALI Salim - Internet des Objets
+  				LIMOURI Hajar - Internet des Objets
+  				SAHMI Soufiane - Internet des Objets
+  	</content>
+  	<date>2018-01-04</date>
+  	<image>images/partenaires/upem.jpg</image>
+  </news>
+
+</allnews>

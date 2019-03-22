@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/news" xmlns:tns="http://www.example.org/news" elementFormDefault="qualified">
+
+<element name="allnews">
+	<complexType>
+		<sequence>
+			<element name="news" maxOccurs="unbounded">
+				<complexType>
+					<sequence>
+						<element name="title">
+							<complexType>
+							<simpleContent>
+								<extension base="string">
+									<attribute name="link" type="anyURI" use="required"/>
+								</extension>
+							</simpleContent>
+								
+							</complexType>
+						</element>
+						<element name="content" type="string"/>
+						<element name="date" type="date"/>
+						<element name="image" type="string" />
+					</sequence>
+				</complexType>
+			</element>
+		</sequence>
+	</complexType>
+</element>
+</schema>

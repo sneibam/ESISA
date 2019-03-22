@@ -1,0 +1,127 @@
+a.topButton{
+display: block;
+background-color: transparent;
+/*background-repeat: no-repeat;*/
+margin: 0px auto;
+padding: 0px 0 0 0;
+text-align: center;
+font-family: Georgia, "Times New Roman", Times, serif;/*Arial, Helvetica, sans-serif;*/
+font-size: 70%;
+font-weight: bold;
+text-shadow: #000066;
+text-decoration:none;
+}
+
+a.topButton:link { color:#0000FF; text-decoration:none; }
+a.topButton:visited { color:#0000FF; text-decoration:none; }
+a.topButton:hover {  
+	color:#FF0033;  
+	font-size: 73%;
+}
+a.topButton:active { color:#000033; text-decoration:none; }
+
+
+
+
+a.button{
+display: block;
+background-color: transparent;
+/*background-repeat: no-repeat;*/
+margin: 0px auto;
+padding: 0px 0 0 0;
+text-align: center;
+text-decoration:none;
+font-family: Geneva, Arial, Helvetica, sans-serif 
+Georgia, "Times New Roman", Times, serif;/*Arial, Helvetica, sans-serif;*/
+font-size: 80%;
+font-weight: bold;
+/*text-shadow: #FFFFFF;*/
+color:#FFFFFF;
+}
+
+
+a.button:link { 
+	color:#FFFFFF; 
+	text-decoration:none; 
+}
+a.button:visited { color:#FFFFFF; text-decoration:none; }
+a.button:hover{  
+	color:#66CCFF;  
+	font-size: 90%;
+	text-decoration:overline;	
+}
+a.button:active { 
+	color:#000033; 
+	text-decoration:none; 
+}
+
+
+
+a.titleMenu{
+margin: 10px auto;
+padding: 5px 0 0 0;
+font-size: 80%;
+font-family: Georgia, "Times New Roman", Times, serif;
+text-shadow:#FFFFFF;
+color:#FFFFFF;
+}
+
+
+
+.FirstTitle {
+	color: #0000FF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.SecondTitle{
+	font-size: 16px;
+}
+
+.SimpleText {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+}
+
+.BlueText{
+	color: #0000FF
+}
+
+.RedText{
+	color: #FF0000
+}
+
+
+
+
+
+
+
+#box {
+position:absolute; top:50px; left:50px;
+z-index:3;}
+
+#box a {
+color:#ffffff;
+background:#b3b06c;
+font:bold 16px verdana, sans-serif;
+text-decoration:none;
+display:block;
+padding:5px;
+border:1px solid black;}
+
+#box a:hover {
+color:black;
+background:#ddd8b7;
+width:400px;}
+
+#box a span {display:none;}
+
+#box a:hover span {
+color:black;
+background:#ffffff;
+font:normal 16px courier, sans-serif;
+border:1px solid black;
+display:block;
+padding:10px;}

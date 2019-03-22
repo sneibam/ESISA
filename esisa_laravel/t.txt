@@ -1,0 +1,1 @@
+{"id":253,"nom":"HAMOUD","mdp":"722253","etudiant":{"id":254,"Nom":"HAMOUD","Prenom":"Mohamed Sneiba","LieuNaissance":"PARIS","NumInscription":"10006222141356","CIN":"BI4741434","Adresse":"","teldom":"22063492","tel":"678726051","telpere":"22610400","telmere":"","an":2000,"mn":9,"jn":22,"ai":2014,"mi":9,"ji":18}}
