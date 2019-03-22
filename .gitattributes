@@ -1,0 +1,2 @@
+ESISA filter=lfs diff=lfs merge=lfs -text
+iOS/MyESISA5/MyESISA5/Base.lproj/LaunchScreen.storyboard filter=lfs diff=lfs merge=lfs -text
